@@ -1,0 +1,3 @@
+Hello, this is a sample text file!
+Second line of text.
+Appended line of text.
